@@ -1,0 +1,274 @@
+{
+  "mens": [
+    {
+      "id": 1,
+      "title": "Essential Crew in White",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/MensRibTShirt-Taupe-2_800x.jpg?v=1651785528",
+      "price": "35",
+      "colors": "2"
+    },
+    {
+      "id": 2,
+      "title": "Fitted Cap Sleeve Crew in Black",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/MensLongEssentialCrew-White-2_800x.jpg?v=1647548045",
+      "price": "40",
+      "colors": "2"
+    },
+    {
+      "id": 3,
+      "title": "Ribbed Square Neck Tank in Antique Green",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/MensRibTShirt-Black-2_800x.jpg?v=1651777564",
+      "price": "30",
+      "colors": "2"
+    },
+    {
+      "id": 4,
+      "title": "Mock Neck Tank in Black",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/MensREssentialCrew-Fog-2_800x.jpg?v=1651613737",
+      "price": "30",
+      "colors": "2"
+    },
+    {
+      "id": 5,
+      "title": "Mock Neck Tank in White",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/MensRibTShirt-Marshmallow-2_800x.jpg?v=1651785480",
+      "price": "30",
+      "colors": "2"
+    },
+    {
+      "id": 6,
+      "title": "Mock Neck Tank in White",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/MensRelaxedCrew-AprictoIllusion-2_800x.jpg?v=1643646720",
+      "price": "30",
+      "colors": "2"
+    },
+    {
+      "id": 7,
+      "title": "Mock Neck Tank in White",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/M-EssentialCrew-Black_1_800x.jpg?v=1618496969",
+      "price": "30",
+      "colors": "2"
+    },
+    {
+      "id": 8,
+      "title": "Mock Neck Tank in White",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/MensRelaxedCrew-White-2_800x.jpg?v=1644435525",
+      "price": "30",
+      "colors": "2"
+    },
+    {
+      "id": 9,
+      "title": "Womens Cropped Ribbed TShirt",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/WomensCroppedRibbedTShirt-Black-2_800x.jpg?v=1651775724",
+      "price": "30",
+      "colors": "2"
+    },
+    {
+      "id": 10,
+      "title": "/Womens Square Neck Tank",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/WomensSquareNeckTank-White-2_800x.jpg?v=1652390745",
+      "price": "30",
+      "colors": "2"
+    },
+    {
+      "id": 11,
+      "title": "Fitted Cap Sleeve Crew",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/WomensFittedCapSleeveCrew-AntiqueGreen-2_800x.jpg?v=1653427516",
+      "price": "30",
+      "colors": "2"
+    },
+    {
+      "id": 12,
+      "title": "Womens Relaxed Crew White",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/WomensRelaxedCrew-White-2_800x.jpg?v=1653492080",
+      "price": "30",
+      "colors": "2"
+    },
+    {
+      "id": 13,
+      "title": "HighNeckTank Black",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/COVER_HighNeckTank-Black-5_800x.jpg?v=1643730680",
+      "price": "30",
+      "colors": "2"
+    },
+    {
+      "id": 14,
+      "title": "Womens Essential Crew PumiceStone",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/WomensEssentialCrew-PumiceStone-2_800x.jpg?v=1643397497",
+      "price": "30",
+      "colors": "2"
+    },
+    {
+      "id": 15,
+      "title": "Mock Neck Tank in White",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/WomensRelaxedCrew-Smoke-2_800x.jpg?v=1647545939",
+      "price": "30",
+      "colors": "2"
+    },
+    {
+      "id": 16,
+      "title": "Mock Neck Tank in White",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/WomensHighNeckTank-ItalianStraw-2_800x.jpg?v=1652300490",
+      "price": "30",
+      "colors": "2"
+    }
+  ],
+  "womens": [
+    {
+      "id": 1,
+      "title": "Essential Crew in White",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/W-EssentialCrew-White-Chloe_1_800x.jpg?v=1614722606",
+      "price": "35",
+      "colors": "2"
+    },
+    {
+      "id": 2,
+      "title": "Fitted Cap Sleeve Crew in Black",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/WomensFittedCapSleeveCrew-Black-2_800x.jpg?v=1653427555",
+      "price": "40",
+      "colors": "2"
+    },
+    {
+      "id": 3,
+      "title": "Ribbed Square Neck Tank in Antique Green",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/WomensSquareNeckTank-AntiqueGreen-2_800x.jpg?v=1652391428",
+      "price": "30",
+      "colors": "2"
+    },
+    {
+      "id": 4,
+      "title": "Mock Neck Tank in Black",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/MockNeckTank-Black-3_800x.jpg?v=1625765630",
+      "price": "30",
+      "colors": "2"
+    },
+    {
+      "id": 5,
+      "title": "Mock Neck Tank in White",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/W-MockNeckTank-White-Chloe_1_800x.jpg?v=1614787068",
+      "price": "30",
+      "colors": "2"
+    },
+    {
+      "id": 6,
+      "title": "Mock Neck Tank in White",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/WomensLoungeTankTop-ItalianStraw-2_800x.jpg?v=1645222618",
+      "price": "30",
+      "colors": "2"
+    },
+    {
+      "id": 7,
+      "title": "Mock Neck Tank in White",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/HighNeckTank-White-3_800x.jpg?v=1628689628",
+      "price": "30",
+      "colors": "2"
+    },
+    {
+      "id": 8,
+      "title": "Mock Neck Tank in White",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/WomensLeisureV-Neck-Clay-2_800x.jpg?v=1653493491",
+      "price": "30",
+      "colors": "2"
+    },
+    {
+      "id": 9,
+      "title": "Womens Cropped Ribbed TShirt",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/WomensCroppedRibbedTShirt-Black-2_800x.jpg?v=1651775724",
+      "price": "30",
+      "colors": "2"
+    },
+    {
+      "id": 10,
+      "title": "/Womens Square Neck Tank",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/WomensSquareNeckTank-White-2_800x.jpg?v=1652390745",
+      "price": "30",
+      "colors": "2"
+    },
+    {
+      "id": 11,
+      "title": "Fitted Cap Sleeve Crew",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/WomensFittedCapSleeveCrew-AntiqueGreen-2_800x.jpg?v=1653427516",
+      "price": "30",
+      "colors": "2"
+    },
+    {
+      "id": 12,
+      "title": "Womens Relaxed Crew White",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/WomensRelaxedCrew-White-2_800x.jpg?v=1653492080",
+      "price": "30",
+      "colors": "2"
+    },
+    {
+      "id": 13,
+      "title": "HighNeckTank Black",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/COVER_HighNeckTank-Black-5_800x.jpg?v=1643730680",
+      "price": "30",
+      "colors": "2"
+    },
+    {
+      "id": 14,
+      "title": "Womens Essential Crew PumiceStone",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/WomensEssentialCrew-PumiceStone-2_800x.jpg?v=1643397497",
+      "price": "30",
+      "colors": "2"
+    },
+    {
+      "id": 15,
+      "title": "Mock Neck Tank in White",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/WomensRelaxedCrew-Smoke-2_800x.jpg?v=1647545939",
+      "price": "30",
+      "colors": "2"
+    },
+    {
+      "id": 16,
+      "title": "Mock Neck Tank in White",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/WomensHighNeckTank-ItalianStraw-2_800x.jpg?v=1652300490",
+      "price": "30",
+      "colors": "2"
+    }
+  ],
+  "cart": [
+    {
+      "id": 15,
+      "title": "Mock Neck Tank in White",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/WomensRelaxedCrew-Smoke-2_800x.jpg?v=1647545939",
+      "price": "30",
+      "colors": "2"
+    },
+    {
+      "id": 11,
+      "title": "Fitted Cap Sleeve Crew",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/WomensFittedCapSleeveCrew-AntiqueGreen-2_800x.jpg?v=1653427516",
+      "price": "30",
+      "colors": "2"
+    },
+    {
+      "id": 14,
+      "title": "Womens Essential Crew PumiceStone",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/WomensEssentialCrew-PumiceStone-2_800x.jpg?v=1643397497",
+      "price": "30",
+      "colors": "2"
+    },
+    {
+      "id": 2,
+      "title": "Fitted Cap Sleeve Crew in Black",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/MensLongEssentialCrew-White-2_800x.jpg?v=1647548045",
+      "price": "40",
+      "colors": "2"
+    },
+    {
+      "id": 16,
+      "title": "Fitted Cap Sleeve Crew in Black",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/WomensFittedCapSleeveCrew-Black-2_800x.jpg?v=1653427555",
+      "price": "40",
+      "colors": "2"
+    },
+    {
+      "id": 17,
+      "title": "/Womens Square Neck Tank",
+      "image": "https://cdn.shopify.com/s/files/1/0932/1356/products/WomensSquareNeckTank-White-2_800x.jpg?v=1652390745",
+      "price": "30",
+      "colors": "2"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+.container{
+    
+}
+.main{
+    height: 500px;
+    width: 99%;
+    /* border: 1px solid black; */
+    margin: auto;
+    background: url("https://www.pngall.com/wp-content/uploads/2018/04/Clothing-PNG-Image.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+.subcon{
+    height: 500px;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    /* border: 1px solid rgb(0, 0, 0); */
+    margin-top: 20px;
+    margin: auto;
+}
+.conbox{
+    height: 450px;
+    width: 35%;
+    /* border: 1px solid green; */
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    cursor: pointer;
+}
+.conbox h1:hover{
+ color: rgb(107, 107, 107);
+ 
+}
+.conbox h1{
+   font-size: 60px;
+   color: rgb(15, 29, 28);
+   margin-top: 340px;
+   background-color: aliceblue;
+   text-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.women{
+    background: url("https://www.kindpng.com/picc/m/37-376025_lady-shopping-shopping-girl-fashion-clothes-shopping-fashion.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+}
+.men{
+    background: url("https://www.nicepng.com/png/detail/88-882283_fashion-men-png-gentleman.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+}
