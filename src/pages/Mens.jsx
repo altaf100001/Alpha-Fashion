@@ -9,10 +9,10 @@ export const Mens = () => {
   const [items , setItem] = useState([])
 
  React.useEffect(() => {
-  fetch("http://localhost:8080/mens")
+  fetch("https://apimockeradnanchicken.onrender.com/reactEcommerce")
   .then( r=>{
     return r.json()
-  }).then(d => setItem([...items,...d]))
+  }).then(d =>  setItem(d.mens))
    
  
    return () => {
@@ -37,9 +37,9 @@ export const Mens = () => {
                <div className='productdiv'>
                 <img src={e.image} alt="" />
                 <h3>{e.title}</h3>
-                <p>Price{e.price}</p>
+                <p style={{fontSize:"20px",fontWeight:"500"}} >Price : {e.price}</p>
               
-                <span>color{e.colors}</span>
+                
                 
                
 

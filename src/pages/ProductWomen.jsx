@@ -6,12 +6,18 @@ export const ProductWomen = () => {
     const [item,setItem] = React.useState({})
    
     React.useEffect(()=>{
-       fetch(`http://localhost:8080/womens/${id}`)
+       fetch(`https://apimockeradnanchicken.onrender.com/reactEcommerce`)
        .then( r=>{
            return r.json()
        })
        .then(d=>{
-           setItem(d)
+           
+           console.log(d.womens)
+       let a= d?.womens.filter(el =>{
+        return el.id == id
+       })
+       setItem(...a)
+  
        })
     },[id])
    
@@ -21,7 +27,7 @@ export const ProductWomen = () => {
     
         axios({
             method: 'post',
-            url: ' http://localhost:8080/cart',
+            // url: 'https://apimockeradnanchicken.onrender.com/reactEcommerce',
             data: 
              {...item,id:""}
             

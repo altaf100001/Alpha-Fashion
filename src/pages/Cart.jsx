@@ -6,14 +6,14 @@ export const Cart = () => {
 const [cart,setCartdata] = useState([])
 
 React.useEffect(()=>{
-    fetch(`http://localhost:8080/cart`)
+    fetch(`https://apimockeradnanchicken.onrender.com/reactEcommerce`)
     .then( r=>{
         return r.json()
     })
     .then(d=>{
         
-        setCartdata([...cart,...d])
-        
+        setCartdata(d.cart)
+        console.log(d)
     })
   },[])
   
@@ -23,7 +23,7 @@ React.useEffect(()=>{
         <h1>Cart </h1>
         <div className='productsdiv'>
         {
-          cart.map(e =>{
+          cart?.map(e =>{
             return (
               
     
@@ -32,7 +32,7 @@ React.useEffect(()=>{
                 <h3>{e.title}</h3>
                 <p>Price{e.price}</p>
               
-                <span>color{e.colors}</span>
+               
                 
                
 

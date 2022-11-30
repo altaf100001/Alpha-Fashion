@@ -17,13 +17,13 @@ const [cartCount,setCartCount] = useState(0)
 
 
 React.useEffect(()=>{
-  fetch(`http://localhost:8080/cart`)
+  fetch(`https://apimockeradnanchicken.onrender.com/reactEcommerce`)
   .then( r=>{
       return r.json()
   })
   .then(d=>{
       
-    setCartCount(d.length)
+    setCartCount(d.cart.length)
       
   })
 },[])
